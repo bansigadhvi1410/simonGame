@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+}
+.blocks{
+    margin-left: 39vw;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.block{
+    height: 115px;
+    width: 115px;
+    border: 6px solid black;
+    border-radius: 20%;
+    display: flex;
+    margin: 5px 10px;
+}
+.crimson{
+    background-color:rgba(220, 20, 60, 0.7);
+}
+.teal{
+    background-color: rgba(0, 128, 128, 0.7); 
+}
+.chocolate{
+    background-color: rgba(210, 105, 30, 0.7);
+}
+.cornflowerblue{
+    background-color: rgba(100, 149, 237, 0.7);
+}
+.flash{
+    background-color: white;
+}
